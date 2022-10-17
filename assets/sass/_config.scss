@@ -1,0 +1,19 @@
+$light-color: rgb(218, 215, 215);
+$blue-color: #0163E4;
+$primary-font:'Poppins', sans-serif;
+
+.pa-fixed-header {
+	background-color: #050815 !important;
+	-webkit-transition: background-color 2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+	-moz-transition: background-color 2s linear;
+	-o-transition: background-color 2s linear;
+	transition: background-color 2s linear;
+}
+.bgc-dark{
+	background-color: #050614;
+	margin: 0;
+}
+.greet{
+	width: 400px;
+	height: 300px;
+}
